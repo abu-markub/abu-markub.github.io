@@ -247,6 +247,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-include-cache
+  minima
   tzinfo-data
 
 BUNDLED WITH
